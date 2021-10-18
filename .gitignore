@@ -1,5 +1,8 @@
 .env
+.vscode
 .idea
+./*.egginfo
 venv
+*.egg-info
 *.sqlite
 *.pyc
